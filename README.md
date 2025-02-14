@@ -21,7 +21,7 @@ I am a passionate senior programmer and software engineer specializing in cuttin
 
 ## 🔭 What I'm Currently Working On
 - Building robust web applications.
-- Exploring machine learning and AI technologies.
+- Exploring machine learning and AGI technologies.
 - Contributing to open-source projects.
 
 ---
